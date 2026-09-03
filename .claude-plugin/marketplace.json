@@ -1,0 +1,14 @@
+{
+  "name": "eng-ctx-skills",
+  "owner": {
+    "name": "Igor Soares Alves",
+    "url": "https://github.com/goriok"
+  },
+  "plugins": [
+    {
+      "name": "eng-ctx-skills",
+      "source": "./",
+      "description": "Skills for creating and maintaining engineering context repositories (ctx-*)"
+    }
+  ]
+}
