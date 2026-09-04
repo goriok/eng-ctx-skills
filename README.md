@@ -4,6 +4,14 @@ Skills para criar e manter repositórios de contexto de engenharia (padrão `ctx
 canônica de pastas, tópicos, campo `Status`, MADRs, prompts para agent-tools externas e busca
 semântica sobre o conteúdo indexado.
 
+## Proposta
+
+Um repositório de contexto acumula conhecimento de domínio com apoio de IA generativa, organizado
+para ser compartilhável entre desenvolvedores via git, com um nível de confiabilidade explícito
+por documento. Ver [docs/estrutura.md](docs/estrutura.md) para a convenção completa (pastas,
+campo `Status`, MADRs) e [docs/ferramental.md](docs/ferramental.md) para o ferramental de apoio
+(busca semântica, rastreamento de consumo de token) que opera em conjunto com as skills abaixo.
+
 ## Skills
 
 | Skill | O que faz |
